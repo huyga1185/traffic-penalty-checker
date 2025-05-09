@@ -17,6 +17,7 @@ Tự động kiêm tra phạt nguội vào lúc **6:00** sáng và **12:00** tr�
 **browser_driver**: 
 - Với windows: tải tại: https://developer.chrome.com/docs/chromedriver/downloads
 - Với linux (arch): `yay -S chromedriver`
+
 **Tesseract OCR**
 - Với windows: Tải tại https://github.com/UB-Mannheim/tesseract/wiki
 - Với linux(arch): `sudo pacman -S tesseract`
