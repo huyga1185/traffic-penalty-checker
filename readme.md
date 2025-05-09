@@ -50,6 +50,9 @@ Tự động kiêm tra phạt nguội vào lúc **6:00** sáng và **12:00** tr�
     bkx = 'biển kiểm xoát'
     #browser driver
     browser_driver = 'browser_driver_path'
+    #loại xe cần kiểm tra
+    # 0 với  oto, 1 với xe máy, 2 với xe đạp điện
+    loai_xe = 0
 ```
 
 - Bước 3: Khởi chạy
