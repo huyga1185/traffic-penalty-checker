@@ -3,7 +3,7 @@
 
 ## Features
 
-Tự động kiêm tra phạt nguội vào lúc **6:00** sáng và **12:00** trưa hàng ngày
+Tự động kiêm tra phạt nguội ở trang web https://www.csgt.vn/tra-cuu-phuong-tien-vi-pham.html vào lúc **6:00** sáng và **12:00** trưa hàng ngày
 
 ## Requirements
 
